@@ -18,7 +18,8 @@ I'm  open to work
 
 
 ### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
 
 ---
 [![](https://komarev.com/ghpvc/?username=Htyagi69&icon=0&color=0)](https://visitcount.itsvg.in)
