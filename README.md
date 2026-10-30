@@ -78,7 +78,9 @@
   <a href="https://github.com/Htyagi69?achievement=quickdraw&tab=achievements">
     <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"/>
   </a>
-  <img href="https://github.com/Htyagi69?tab=achievements&achievement=pull-shark" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
+  <a href="https://github.com/Htyagi69?tab=achievements&achievement=pull-shark" 
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
+  </a>
 </p>
 
 ---
