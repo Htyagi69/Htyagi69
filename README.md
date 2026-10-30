@@ -1,4 +1,4 @@
-# Hi,✋I'm Harshit
+# Hi,I'm Harshit
 I'm  open to work
 
 
@@ -14,6 +14,8 @@ I'm  open to work
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Htyagi69&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github.com/Htyagi69?achievement=pull-shark&tab=achievements)
+
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
