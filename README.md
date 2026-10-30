@@ -75,7 +75,8 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Htyagi69&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github.com/users/Htyagi69/achievements/pull-shark" />
+  <img src="https://github.com/Htyagi69?achievement=quickdraw&tab=achievements"/>
 </p>
 
 ---
