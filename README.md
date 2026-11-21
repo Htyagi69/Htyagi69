@@ -58,15 +58,15 @@ Open to opportunities • Based in India
 
 ---
 
-## 🏆 **Featured Projects**
+
+## 🏆 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Project Name** | Brief 1-2 line description of what it does | `React` `Node.js` `PostgreSQL` | [Repo](https://github.com/Htyagi69) • [Demo](https://example.com) |
-| **Project Name** | Brief 1-2 line description of what it does | `Next.js` `TypeScript` `Prisma` | [Repo](https://github.com/Htyagi69) • [Demo](https://example.com) |
-| **Project Name** | Brief 1-2 line description of what it does | `React Native` `FastAPI` `MongoDB` | [Repo](https://github.com/Htyagi69) • [Demo](https://example.com) |
-
-> 💡 **Tip:** Replace the placeholder projects above with your actual best 3-5 projects. Include live demos when possible!
+| **Multiplayer BrushSync** | Built a real-time collaborative whiteboard supporting multi-user drawing, room-based collaboration, live cursors, authentication, and video/audio communication. | `React` `Node.js` `Express` `Socket.IO` `PeerJS` `PostgreSQL` `Docker` | [GitHub](https://github.com/Htyagi69) • [Live Demo](https://multiplayer-brush-sync.vercel.app/) |
+| **Friday – AI Voice Assistant** | Developed a voice-enabled AI assistant using Gemini Live API with real-time conversations, tool calling, FastAPI backend, and session management. | `Python` `FastAPI` `Gemini Live API` `PostgreSQL` `Docker` | [GitHub](https://github.com/Htyagi69) • [Live Demo](https://friday-pi-sand.vercel.app/)
+| **ShareSphere** | Developed a full-stack file-sharing platform with cloud storage, synchronized data, and containerized deployment for reliable file management and sharing. | `React` `Node.js` `Express` `CouchDB` `PouchDB` `AWS S3` `Docker` `Nginx` | [GitHub](https://github.com/Htyagi69) • [Live Demo](https://share-sphere-common-sharing-point.vercel.app/) |
+| **FindMyBuddy** | Built a real-time location-sharing application using Firebase to synchronize and display users' location updates. | `TypeScript` `Firebase` | [GitHub](https://github.com/Htyagi69) • [Live Demo](https://find-my-buddy-teal.vercel.app/MapView) | 
 
 ---
 
