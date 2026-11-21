@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Harshit Tyagi! 👋
+# Hi there, I'm Harshit! 👋
 
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-tyagi-43b972232)
 
